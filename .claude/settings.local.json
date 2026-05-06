@@ -1,7 +1,23 @@
 {
   "permissions": {
     "allow": [
-      "WebFetch(domain:optionspa.com)"
+      "WebFetch(domain:optionspa.com)",
+      "Bash(curl -L -o logo.png \"https://www.optionspa.com/wp-content/uploads/2022/04/OPTIONS-ADDICTION-RECOVERY.png\")",
+      "Bash(curl -L -o logo-footer.png \"https://optionspa.com/wp-content/uploads/2022/04/OPTI.png\")",
+      "Bash(curl -L -o tms-main.webp \"https://res.cloudinary.com/djsfeynrv/image/upload/v1770454851/tms-main-img_xukwt6.webp\")",
+      "Bash(curl -L -o tms-session.webp \"https://res.cloudinary.com/djsfeynrv/image/upload/v1770454836/neurocare-TMS_v9cdtg.webp\")",
+      "Bash(curl -L -o neuronal-activation.webp \"https://res.cloudinary.com/djsfeynrv/image/upload/v1770454840/Neuronal-Activation_fhil9j.webp\")",
+      "Bash(curl -L -o neuroplasticity.webp \"https://res.cloudinary.com/djsfeynrv/image/upload/v1770454830/Lasting-Neuroplasticity_uikpfu.webp\")",
+      "Bash(curl -L -o tms-machine.webp \"https://res.cloudinary.com/djsfeynrv/image/upload/v1770454834/machine-2_mjhvda.webp\")",
+      "Bash(curl -L -o upmc.jpg \"https://www.optionspa.com/wp-content/uploads/2023/11/UPMC-1024x288-1-768x216.jpg\")",
+      "Bash(curl -L -o aetna.jpg \"https://www.optionspa.com/wp-content/uploads/2023/11/Aetna-Logo-2012-300x169.jpg\")",
+      "Bash(curl -L -o highmark.jpg \"https://www.optionspa.com/wp-content/uploads/2023/11/highmark-thumb-300x150.png\")",
+      "Bash(curl -L -o unitedhealthcare.png \"https://www.optionspa.com/wp-content/uploads/2023/11/united-health-care-logo-1-768x216.png\")",
+      "Bash(curl -L -o sigma.png \"https://www.optionspa.com/wp-content/uploads/2023/11/Sigma-Brain-Logo-768x216-1.png\")",
+      "Bash(curl -L -o \"c:/Users/GCV/Desktop/optionspa-LP/images/katrina-crump.jpg\" \"https://lh3.googleusercontent.com/a-/ALV-UjUJdr50C3rm9dHwQJyqr_KMesCI411CbJcEvW7jNxobfuCuLpxhWA=w72-h72-p-rp-mo-ba3-br100\")",
+      "Bash(curl -L -o \"c:/Users/GCV/Desktop/optionspa-LP/images/victoria-brown.jpg\" \"https://lh3.googleusercontent.com/a-/ALV-UjUm7PiF8QhYkZ0FDFe_Ts9TLgKurMXcLAtgqSDcxfplwCYbCVdkPQ=w72-h72-p-rp-mo-br100\")",
+      "Bash(curl -L -o \"c:/Users/GCV/Desktop/optionspa-LP/images/krxsessions.jpg\" \"https://lh3.googleusercontent.com/a-/ALV-UjUV90G7sLeJ3fl0VZlD7UdoZf7LXJepncJrmoTTv33zutqfnmtQsA=w72-h72-p-rp-mo-ba3-br100\")",
+      "Bash(curl -L -o \"c:/Users/GCV/Desktop/optionspa-LP/images/ashley-price.jpg\" \"https://lh3.googleusercontent.com/a/ACg8ocI5XqT6WqlwAZiTsyibW-DDR1kx8v-TxfR47N3RiuoV6C-ZwA=w72-h72-p-rp-mo-br100\")"
     ]
   }
 }
